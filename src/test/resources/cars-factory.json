@@ -1,0 +1,11 @@
+{
+  "country": "Германия",
+  "carBrand": [
+    "BMW",
+    "Mercedes",
+    "Porshe",
+    "Opel",
+    "Audi"
+  ],
+  "carAmount": 137
+}
